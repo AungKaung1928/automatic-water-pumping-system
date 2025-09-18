@@ -1,4 +1,4 @@
-# Automatic Water Pumping System
+# Automatic Water Pumping System (University Group Project)
 
 **ME-41032 - Department of Mechanical Engineering**  
 **Mini-Project by Group-8**  
