@@ -130,7 +130,7 @@ automatic-water-pumping/
 
 - **Week 1-2:** Problem definition and literature review
 - **Week 3-4:** Hardware selection and procurement
-- **Week 5-6:** Circuit design and Arduino programming
+- **Week 5-6:** System design and Arduino programming
 - **Week 7-8:** MATLAB simulation and system testing
 - **Week 9-10:** Integration, documentation, and presentation
 
